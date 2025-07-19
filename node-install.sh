@@ -55,4 +55,4 @@ npm install -g vscode-langservers-extracted   # css, html, js, json, markdown
 
 # Install code linters
 #   js, html, ccs: ?
-# npm install -g eslint   # included in vscode-langservers-extracted
+npm install -g eslint   # also included in vscode-langservers-extracted
