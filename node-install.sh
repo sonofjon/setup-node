@@ -43,9 +43,6 @@ nvm install --lts
 # Upgrade npm on current Node version
 nvm install-latest-npm
 
-# npm completion
-source <(npm completion)
-
 ## Install packages
 
 # Install language servers
