@@ -1,2 +1,2 @@
-# node-setup
+# setup-node
 Setup node environment
