@@ -45,6 +45,10 @@ nvm install-latest-npm
 
 ## Install packages
 
+## Install AI tools
+npm install -g @zed-industries/claude-code-acp
+npm install -g @zed-industries/codex-acp
+
 # Install language servers
 npm install -g @ansible/ansible-language-server
 npm install -g bash-language-server
