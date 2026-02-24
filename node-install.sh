@@ -46,7 +46,7 @@ nvm install-latest-npm
 ## Install packages
 
 ## Install AI tools
-npm install -g @zed-industries/claude-code-acp
+npm install -g @zed-industries/claude-agent-acp
 # npm install -g @github/copilot   # or install native or homebrew version
 npm install -g @zed-industries/codex-acp
 
